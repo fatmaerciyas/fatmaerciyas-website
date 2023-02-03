@@ -1,0 +1,124 @@
+::selection {
+  background: rgba(221, 174, 63, 0.3);
+}
+
+::-moz-selection {
+  background: rgba(221, 174, 63, 0.3);
+}
+
+.pill-button {
+  color: #ddae3f;
+}
+
+.pill-button:hover, .pill-button.active {
+  color: #ddae3f;
+}
+
+.overlay-menu a:hover {
+  color: #ddae3f !important;
+}
+
+.overlay-menu a.active {
+  color: #ddae3f !important;
+}
+
+.bg-base-color {
+  background-color: #ddae3f !important;
+}
+
+.base-color {
+  color: #ddae3f !important;
+}
+
+.follow-label::before {
+  background-color: #ddae3f;
+}
+
+.social a:hover {
+  color: #ddae3f !important;
+}
+
+.social-icon a:hover {
+  color: #ddae3f;
+}
+
+#pp-nav li:hover span {
+  background-color: #ddae3f !important;
+}
+
+#pp-nav li .active span {
+  background-color: #ddae3f !important;
+}
+
+.border-style {
+  background-color: #ddae3f;
+}
+
+.timeline-icon {
+  border: 1px solid #ddae3f;
+  background-color: #ddae3f;
+}
+
+.timeline-year {
+  color: #ddae3f;
+}
+
+.timeline-item:before {
+  border: 1px solid #ddae3f;
+}
+
+.skill-box .fill-skillbar {
+  background-color: #ddae3f;
+}
+
+.portfolio .portfolio-filter li a {
+  color: #ddae3f;
+}
+
+.testimonial .owl-dot.active span {
+  background-color: #ddae3f;
+}
+
+.blog-link a:hover {
+  color: #dba423 !important;
+}
+
+.portfolio .portfolio-item-content:before {
+  background-color: rgba(221, 174, 63, 0.9);
+}
+
+.portfolio .portfolio-icon a:first-child i, .portfolio .portfolio-icon a i {
+  color: #ddae3f;
+}
+
+.testimonial .owl-carousel .owl-dot.active span {
+  background-color: #ddae3f;
+}
+
+.contact .form-item .form-control {
+  color: #ddae3f;
+}
+
+.loader {
+  border-top: 4px solid #ddae3f !important;
+}
+
+.flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+  background-color: #ddae3f;
+}
+
+.flat-demo .pill-button:hover, .flat-demo .pill-button.active {
+  background-color: #dba423;
+}
+
+.arshia-dark .social-icon a:hover, .arshia-dark .social a:hover {
+  color: #ddae3f !important;
+}
+
+.arshia-dark #pp-nav li .active span {
+  background-color: #ddae3f !important;
+}
+
+.arshia-dark #pp-nav li:hover span {
+  background-color: #ddae3f !important;
+}

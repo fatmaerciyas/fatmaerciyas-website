@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 Jan 2023 22:03:59 at https://retrina.com/demo/arshia/arshia/pilling-parallax/particle-03.html#hero +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://retrina.com/demo/arshia/arshia/pilling-parallax/particle-03.html#hero -O1 "C:\My Web Sites\myproject2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:04:26	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+22:04:26	Warning: 	Retry after error -5 (Unable to get server's address: Bilinen böyle bir ana bilgisayar yok. ) at link primary/hero (from primary/primary)
+22:04:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/hero (from primary/primary)
+22:04:46	Error: 	"Not Found" (404) at link https://retrina.com/demo/arshia/arshia/pilling-parallax/assets/css/owl.video.play.png (from https://retrina.com/demo/arshia/arshia/pilling-parallax/assets/css/owl.carousel.min.css)
+22:05:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/hero (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 103 links scanned, 97 files written (6554218 bytes overall) [4720221 bytes received at 68409 bytes/sec], 2973719 bytes transferred using HTTP compression in 51 files, ratio 35%, 19.8 requests per connection
+(3 errors, 2 warnings, 0 messages)
