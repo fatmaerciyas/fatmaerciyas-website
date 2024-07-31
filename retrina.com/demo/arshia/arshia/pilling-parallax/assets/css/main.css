@@ -106,12 +106,9 @@ a, button {
 }
 
 .image-border img {
-        width: 150px; /* İstediğiniz genişliği ayarlayın */
-        height: 150px; /* İstediğiniz yüksekliği ayarlayın */
-        border-radius: 50%; /* Resmi yuvarlak yapmak için */
-        object-fit: cover; /* Resmin orantılarını korur ve kesilmesini engeller */
+  width: 100%;
+  border-radius: 2rem;
 }
-
 
 .display-table {
   width: 100%;
