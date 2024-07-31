@@ -1,4 +1,4 @@
-/*-------------------------
+﻿/*-------------------------
          GENERAL
 -------------------------*/
 body {
@@ -102,12 +102,16 @@ a, button {
   border-radius: 1.25rem;
   box-shadow: 3px 3px 8px rgba(55, 84, 170, 0.1), -3px -3px 8px white;
   padding: 5px;
+
 }
 
 .image-border img {
-  width: 100%;
-  border-radius: 1rem;
+        width: 150px; /* İstediğiniz genişliği ayarlayın */
+        height: 150px; /* İstediğiniz yüksekliği ayarlayın */
+        border-radius: 50%; /* Resmi yuvarlak yapmak için */
+        object-fit: cover; /* Resmin orantılarını korur ve kesilmesini engeller */
 }
+
 
 .display-table {
   width: 100%;

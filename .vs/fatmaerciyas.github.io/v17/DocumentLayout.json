@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\retrina.com\\demo\\arshia\\arshia\\pilling-parallax\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:retrina.com\\demo\\arshia\\arshia\\pilling-parallax\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\CNAME||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CNAME||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\hts-log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hts-log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\retrina.com\\cdn-cgi\\scripts\\5c5dd728\\cloudflare-static\\email-decode.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\retrina.com\\demo\\arshia\\arshia\\pilling-parallax\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "retrina.com\\demo\\arshia\\arshia\\pilling-parallax\\assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\retrina.com\\demo\\arshia\\arshia\\pilling-parallax\\assets\\css\\main.css",
+              "RelativeToolTip": "retrina.com\\demo\\arshia\\arshia\\pilling-parallax\\assets\\css\\main.css",
+              "ViewState": "AQIAAE8AAAAAAAAAAADgv3AAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T09:46:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CNAME",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\CNAME",
               "RelativeDocumentMoniker": "CNAME",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "fade.gif",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\fade.gif",
               "RelativeDocumentMoniker": "fade.gif",
@@ -62,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "email-decode.min.js",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\retrina.com\\cdn-cgi\\scripts\\5c5dd728\\cloudflare-static\\email-decode.min.js",
               "RelativeDocumentMoniker": "retrina.com\\cdn-cgi\\scripts\\5c5dd728\\cloudflare-static\\email-decode.min.js",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "retrina.com\\cdn-cgi\\scripts\\5c5dd728\\cloudflare-static\\email-decode.min.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-31T09:34:35.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:34:35.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "hts-log.txt",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\hts-log.txt",
               "RelativeDocumentMoniker": "hts-log.txt",
@@ -83,18 +99,17 @@
               "RelativeToolTip": "hts-log.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-31T09:32:58.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:32:58.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Fatma\\source\\repos\\fatmaerciyas.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-07-31T09:32:31.158Z",
               "EditorCaption": ""
