@@ -1,3 +1,4 @@
 # WebSite
 
-Codes of https://fatmaerciyas.software/
+Codes of fatmaerciyas.github.io
+
